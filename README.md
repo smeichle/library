@@ -5,7 +5,7 @@ __Library Database__
 
 ## Tables
 
-Table 'Books'
+*Table 'Books'
 | Column | Description |
 | ------ | ----------- |
 | ISBN   | Unique identification number of the book (VARCHAR). The table’s primary key. |
