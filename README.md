@@ -42,8 +42,8 @@ This repository contains files to create a database schema consisting of five ta
 *Table 'AuthorISBN'*
 | Column | Description |
 | ------ | ----------- |
-| AuthorID   | Author's ID Number- Foreign Key to the Author table. |
-| ISBN | The unique identifier for a book.  |
+| AuthorID   | Author's ID Number- Foreign Key to the Author table. (INT) |
+| ISBN | The unique identifier for a book. (VARCHAR)  |
 
 
 ### Entity-Relationship Diagram for the Library Database
