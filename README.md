@@ -14,11 +14,13 @@ __Library Database__
 | PublicationDate    | Date of publication (DATE)|
 
 
+
 *Table 'Category'*
 | Column | Description |
 | ------ | ----------- |
 | CategoryID   | Category identification number (INT). |
 | Name | Category name (VARCHAR) |
+
 
 
 *Table 'Subcategory'*
@@ -28,12 +30,14 @@ __Library Database__
 | CategoryID | Category identification number (INT) for associated category. |
 | Name    | Subcategory name (VARCHAR) |
 
+
 *Table 'Author'*
 | Column | Description |
 | ------ | ----------- |
 | AuthorID   | Author’s ID number in the database, the identity column. This ID is the primary key. (INT) |
 | FirstName | Authors first name (VARCHAR) |
 | LastName    | Authors last name (VARCHAR) |
+
 
 *Table 'AuthorISBN'*
 | Column | Description |
