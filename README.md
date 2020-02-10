@@ -1,11 +1,11 @@
 __Library Database__
 
 ---
-This repository contains files to create a database schema consisting of five tables: **Books**, **Category**, **Subcategory**, **Author**, and **AuthorISBN**.  
+This repository contains files to create a database schema consisting of five tables: **Book**, **Category**, **Subcategory**, **Author**, and **AuthorISBN**.  
 
 ### Tables
 
-*Table 'Books'*
+*Table 'Book'*
 | Column | Description |
 | ------ | ----------- |
 | ISBN   | Unique identification number of the book (VARCHAR). The table’s primary key. |
