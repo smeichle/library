@@ -1,7 +1,7 @@
 __Library Database__
 
 ---
-
+This repository contains files to create a database schema consisting of five tables: **Books**, **Category**, **Subcategory**, **Author**, and **AuthorISBN**.  
 ---
 ### Tables
 
