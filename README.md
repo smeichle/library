@@ -2,8 +2,8 @@ __Library Database__
 
 ---
 
-
-## Tables
+---
+### Tables
 
 *Table 'Books'*
 | Column | Description |
@@ -44,3 +44,9 @@ __Library Database__
 | ------ | ----------- |
 | AuthorID   | Author's ID Number- Foreign Key to the Author table. |
 | ISBN | The unique identifier for a book.  |
+
+
+### Entity-Relationship Diagram for the Library Database
+
+![ER Diagram](https://github.com/smeichle/library/blob/master/libraryER.png "ER Diagram for Library DB")
+
